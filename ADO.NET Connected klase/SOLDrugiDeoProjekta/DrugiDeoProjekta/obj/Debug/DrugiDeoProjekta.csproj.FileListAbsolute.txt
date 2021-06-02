@@ -1,0 +1,24 @@
+C:\Users\Marko\Desktop\DrugiDeoProjekta\SOLDrugiDeoProjekta\DrugiDeoProjekta\obj\Debug\DrugiDeoProjekta.csprojAssemblyReference.cache
+C:\Users\Marko\Desktop\DrugiDeoProjekta\SOLDrugiDeoProjekta\DrugiDeoProjekta\obj\Debug\DrugiDeoProjekta.Form1.resources
+C:\Users\Marko\Desktop\DrugiDeoProjekta\SOLDrugiDeoProjekta\DrugiDeoProjekta\obj\Debug\DrugiDeoProjekta.Properties.Resources.resources
+C:\Users\Marko\Desktop\DrugiDeoProjekta\SOLDrugiDeoProjekta\DrugiDeoProjekta\obj\Debug\DrugiDeoProjekta.csproj.GenerateResource.cache
+C:\Users\Marko\Desktop\DrugiDeoProjekta\SOLDrugiDeoProjekta\DrugiDeoProjekta\obj\Debug\DrugiDeoProjekta.csproj.CoreCompileInputs.cache
+C:\Users\Marko\Desktop\DrugiDeoProjekta\SOLDrugiDeoProjekta\DrugiDeoProjekta\bin\Debug\DrugiDeoProjekta.exe.config
+C:\Users\Marko\Desktop\DrugiDeoProjekta\SOLDrugiDeoProjekta\DrugiDeoProjekta\bin\Debug\DrugiDeoProjekta.exe
+C:\Users\Marko\Desktop\DrugiDeoProjekta\SOLDrugiDeoProjekta\DrugiDeoProjekta\bin\Debug\DrugiDeoProjekta.pdb
+C:\Users\Marko\Desktop\DrugiDeoProjekta\SOLDrugiDeoProjekta\DrugiDeoProjekta\obj\Debug\DrugiDeoProjekta.exe
+C:\Users\Marko\Desktop\DrugiDeoProjekta\SOLDrugiDeoProjekta\DrugiDeoProjekta\obj\Debug\DrugiDeoProjekta.pdb
+C:\Users\Marko\Desktop\DrugiDeoProjekta\SOLDrugiDeoProjekta\DrugiDeoProjekta\obj\Debug\DrugiDeoProjekta.Insert.resources
+C:\Users\Marko\Desktop\DrugiDeoProjekta\SOLDrugiDeoProjekta\DrugiDeoProjekta\obj\Debug\DrugiDeoProjekta.UpdateForm.resources
+D:\Projekat C#2\DrugiDeoProjekta\SOLDrugiDeoProjekta\DrugiDeoProjekta\bin\Debug\DrugiDeoProjekta.exe.config
+D:\Projekat C#2\DrugiDeoProjekta\SOLDrugiDeoProjekta\DrugiDeoProjekta\bin\Debug\DrugiDeoProjekta.exe
+D:\Projekat C#2\DrugiDeoProjekta\SOLDrugiDeoProjekta\DrugiDeoProjekta\bin\Debug\DrugiDeoProjekta.pdb
+D:\Projekat C#2\DrugiDeoProjekta\SOLDrugiDeoProjekta\DrugiDeoProjekta\obj\Debug\DrugiDeoProjekta.csprojAssemblyReference.cache
+D:\Projekat C#2\DrugiDeoProjekta\SOLDrugiDeoProjekta\DrugiDeoProjekta\obj\Debug\DrugiDeoProjekta.Form1.resources
+D:\Projekat C#2\DrugiDeoProjekta\SOLDrugiDeoProjekta\DrugiDeoProjekta\obj\Debug\DrugiDeoProjekta.Insert.resources
+D:\Projekat C#2\DrugiDeoProjekta\SOLDrugiDeoProjekta\DrugiDeoProjekta\obj\Debug\DrugiDeoProjekta.Properties.Resources.resources
+D:\Projekat C#2\DrugiDeoProjekta\SOLDrugiDeoProjekta\DrugiDeoProjekta\obj\Debug\DrugiDeoProjekta.UpdateForm.resources
+D:\Projekat C#2\DrugiDeoProjekta\SOLDrugiDeoProjekta\DrugiDeoProjekta\obj\Debug\DrugiDeoProjekta.csproj.GenerateResource.cache
+D:\Projekat C#2\DrugiDeoProjekta\SOLDrugiDeoProjekta\DrugiDeoProjekta\obj\Debug\DrugiDeoProjekta.csproj.CoreCompileInputs.cache
+D:\Projekat C#2\DrugiDeoProjekta\SOLDrugiDeoProjekta\DrugiDeoProjekta\obj\Debug\DrugiDeoProjekta.exe
+D:\Projekat C#2\DrugiDeoProjekta\SOLDrugiDeoProjekta\DrugiDeoProjekta\obj\Debug\DrugiDeoProjekta.pdb
